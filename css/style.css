@@ -1,0 +1,76 @@
+nav {
+    height: 50px;
+    background-color: rgb(255, 203, 210);
+  }
+  .buttons {
+      margin-left: 210px;
+  }
+  .navButton {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    width: 100px;
+    text-align: center;
+    color: rgb(184, 63, 83);
+    background-color: rgb(255, 241, 241);
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+  }
+  
+  .left {
+    height: 580px;
+    float: left;
+    background-color: rgb(184, 63, 83);
+    width: 30%;
+  }
+  .leftText {
+      color: rgb(255, 241, 241);
+      text-align: left-align;
+  }
+  .leftTextTitle {
+    color: rgb(255, 241, 241);
+    text-align: center;
+  }
+  
+  .right {
+    height: 580px;
+    float: left;
+    background-color: rgb(255, 241, 241);
+    width: 70%;
+    text-align: left;
+  }
+  .card {
+      background-color: rgb(255, 203, 210);
+      padding: 10px;
+      margin: 10px;
+      width: 535px;
+      border-top-left-radius: 2px;
+      border-top-right-radius: 2px;
+      border-bottom-left-radius: 2px;
+      border-bottom-right-radius: 2px;
+  }
+  .image {
+      float:right;
+  }
+  .gallery {
+      outline-color: rgb(184, 63, 83);
+      outline-style: groove;
+      margin: 20px;
+      outline-width: 3px;
+      border-top-left-radius: 2px;
+      border-top-right-radius: 2px;
+      border-bottom-left-radius: 2px;
+      border-bottom-right-radius: 2px;
+      text-align: center;
+      padding: 1px;
+  }
+  .header {
+      color: rgb(184, 63, 83)
+  }
+  .link {
+      color: rgb(184, 63, 83);
+      text-align: right;
+      padding-right: 20px;
+  }
